@@ -1,0 +1,35 @@
+
+path{
+	fill:#d6caa9;
+}
+
+
+.Afrique:hover{
+     fill:brown;
+ }
+
+.AmeriqueSud:hover{
+    fill:green;
+}
+
+.AmeriqueNord:hover{
+    fill:orange;
+}
+
+
+.Europe:hover{
+    fill:blue;
+}
+
+#Groenland:hover{
+    fill:grey;
+}
+
+.Asie:hover{
+    fill:yellow;
+}
+
+.Australie:hover{
+    fill:purple;
+}
+
